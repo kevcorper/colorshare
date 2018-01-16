@@ -1,5 +1,5 @@
 Testsuite: colorshare.ColorIntegrationSpec
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.334 sec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.357 sec
 ------------- Standard Output ---------------
 --Output from Adding colors to user links the color to the user--
 --Output from Ensure that colors linked to a user can be retrieved--
@@ -9,5 +9,5 @@ Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.334 sec
 --Output from Ensure that colors linked to a user can be retrieved--
 ------------- ---------------- ---------------
 
-Testcase: Adding colors to user links the color to the user took 0.308 sec
-Testcase: Ensure that colors linked to a user can be retrieved took 0.023 sec
+Testcase: Adding colors to user links the color to the user took 0.337 sec
+Testcase: Ensure that colors linked to a user can be retrieved took 0.019 sec

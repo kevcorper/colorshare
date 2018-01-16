@@ -1,0 +1,2 @@
+--Output from Add a color to a user's favorite--
+--Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--

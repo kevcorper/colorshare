@@ -1,0 +1,13 @@
+Testsuite: colorshare.FavoriteIntegrationSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.043 sec
+------------- Standard Output ---------------
+--Output from Add a color to a user's favorite--
+--Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Add a color to a user's favorite--
+--Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
+------------- ---------------- ---------------
+
+Testcase: Add a color to a user's favorite took 0.025 sec
+Testcase: Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved took 0.016 sec

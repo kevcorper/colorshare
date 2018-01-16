@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" name="colorshare.FavoriteIntegrationSpec" tests="2" time="0.043" timestamp="2018-01-16T17:58:59">
+  <properties />
+  <testcase classname="colorshare.FavoriteIntegrationSpec" name="Add a color to a user&apos;s favorite" time="0.025" />
+  <testcase classname="colorshare.FavoriteIntegrationSpec" name="Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved" time="0.017" />
+  <system-out><![CDATA[--Output from Add a color to a user's favorite--
+--Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
+]]></system-out>
+  <system-err><![CDATA[--Output from Add a color to a user's favorite--
+--Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
+]]></system-err>
+</testsuite>

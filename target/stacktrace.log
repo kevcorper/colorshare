@@ -187,3 +187,195 @@ Possible solutions: id
 groovy.lang.MissingPropertyException: Exception evaluating property 'size' for java.util.HashSet, Reason: groovy.lang.MissingPropertyException: No such property: size for class: colorshare.Color
 Possible solutions: id
 	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:23)
+2018-01-16 12:09:57,108 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at org.codehaus.groovy.grails.orm.hibernate.AbstractHibernateGormEnhancer.addRelationshipManagementMethods_closure4(AbstractHibernateGormEnhancer.groovy:141)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:09:57,140 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:09:57,189 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:09:57,191 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:09:57,209 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:09:57,212 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:12:33,628 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at org.codehaus.groovy.grails.orm.hibernate.AbstractHibernateGormEnhancer.addRelationshipManagementMethods_closure4(AbstractHibernateGormEnhancer.groovy:141)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:12:33,654 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:12:33,697 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:12:33,699 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:12:33,713 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:12:33,716 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.User.addToFavoriteColors() is applicable for argument types: (colorshare.Color) values: [colorshare.Color : (unsaved)]
+Possible solutions: addToFavoriteColors(java.lang.Object), getFavoriteColors()
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:27)
+2018-01-16 12:27:12,573 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:31)
+2018-01-16 12:27:12,577 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:31)
+2018-01-16 12:27:12,578 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:31)
+2018-01-16 12:27:12,578 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:31)
+2018-01-16 12:27:12,581 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:31)
+2018-01-16 12:27:12,581 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:31)
+2018-01-16 12:29:23,768 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: creator for class: colorshare.Color
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:28)
+2018-01-16 12:29:23,773 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: creator for class: colorshare.Color
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:28)
+2018-01-16 12:29:23,775 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: creator for class: colorshare.Color
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:28)
+2018-01-16 12:29:23,776 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: creator for class: colorshare.Color
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:28)
+2018-01-16 12:29:23,782 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: creator for class: colorshare.Color
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:28)
+2018-01-16 12:29:23,783 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: creator for class: colorshare.Color
+	at colorshare.FavoriteIntegrationSpec.Create a favorite object that saves to the database(FavoriteIntegrationSpec.groovy:28)
+2018-01-16 12:55:11,624 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'creator' on null object
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:41)
+2018-01-16 12:55:11,625 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'creator' on null object
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:41)
+2018-01-16 12:55:11,626 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'creator' on null object
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:41)
+2018-01-16 12:55:11,626 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'creator' on null object
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:41)
+2018-01-16 12:55:11,630 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'creator' on null object
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:41)
+2018-01-16 12:55:11,630 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'creator' on null object
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:41)
+2018-01-16 12:58:06,396 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user2.favoriteColors[0].hexCode == "fdfdfd"
+|     |             |   |       |
+|     |             |   #fdfdfd false
+|     |             |           1 difference (85% similarity)
+|     |             |           (#)fdfdfd
+|     |             |           (-)fdfdfd
+|     |             colorshare.Color : (unsaved)
+|     [colorshare.Color : (unsaved)]
+colorshare.User : 6
+
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:42)
+2018-01-16 12:58:06,403 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user2.favoriteColors[0].hexCode == "fdfdfd"
+|     |             |   |       |
+|     |             |   #fdfdfd false
+|     |             |           1 difference (85% similarity)
+|     |             |           (#)fdfdfd
+|     |             |           (-)fdfdfd
+|     |             colorshare.Color : (unsaved)
+|     [colorshare.Color : (unsaved)]
+colorshare.User : 6
+
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:42)
+2018-01-16 12:58:06,404 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user2.favoriteColors[0].hexCode == "fdfdfd"
+|     |             |   |       |
+|     |             |   #fdfdfd false
+|     |             |           1 difference (85% similarity)
+|     |             |           (#)fdfdfd
+|     |             |           (-)fdfdfd
+|     |             colorshare.Color : (unsaved)
+|     [colorshare.Color : (unsaved)]
+colorshare.User : 6
+
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:42)
+2018-01-16 12:58:06,404 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user2.favoriteColors[0].hexCode == "fdfdfd"
+|     |             |   |       |
+|     |             |   #fdfdfd false
+|     |             |           1 difference (85% similarity)
+|     |             |           (#)fdfdfd
+|     |             |           (-)fdfdfd
+|     |             colorshare.Color : (unsaved)
+|     [colorshare.Color : (unsaved)]
+colorshare.User : 6
+
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:42)
+2018-01-16 12:58:06,408 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user2.favoriteColors[0].hexCode == "fdfdfd"
+|     |             |   |       |
+|     |             |   #fdfdfd false
+|     |             |           1 difference (85% similarity)
+|     |             |           (#)fdfdfd
+|     |             |           (-)fdfdfd
+|     |             colorshare.Color : (unsaved)
+|     [colorshare.Color : (unsaved)]
+colorshare.User : 6
+
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:42)
+2018-01-16 12:58:06,408 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user2.favoriteColors[0].hexCode == "fdfdfd"
+|     |             |   |       |
+|     |             |   #fdfdfd false
+|     |             |           1 difference (85% similarity)
+|     |             |           (#)fdfdfd
+|     |             |           (-)fdfdfd
+|     |             colorshare.Color : (unsaved)
+|     [colorshare.Color : (unsaved)]
+colorshare.User : 6
+
+	at colorshare.FavoriteIntegrationSpec.Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved(FavoriteIntegrationSpec.groovy:42)
