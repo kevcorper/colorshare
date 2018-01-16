@@ -1,0 +1,10 @@
+Testsuite: colorshare.ColorIntegrationSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.313 sec
+------------- Standard Output ---------------
+--Output from Adding colors to user links the color to the user--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Adding colors to user links the color to the user--
+------------- ---------------- ---------------
+
+Testcase: Adding colors to user links the color to the user took 0.312 sec

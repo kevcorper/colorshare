@@ -1,0 +1,189 @@
+2018-01-16 10:23:34,629 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractSavePersistentMethod.doInvokeInternal(AbstractSavePersistentMethod.java:190)
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractDynamicPersistentMethod.invoke(AbstractDynamicPersistentMethod.java:68)
+	at org.codehaus.groovy.grails.orm.hibernate.HibernateGormInstanceApi.save(HibernateGormInstanceApi.groovy:195)
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:15)
+2018-01-16 10:23:34,632 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:15)
+2018-01-16 10:23:34,635 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:15)
+2018-01-16 10:23:34,635 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:15)
+2018-01-16 10:23:34,646 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:15)
+2018-01-16 10:23:34,646 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:15)
+2018-01-16 10:23:34,705 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+kevin.errors.errorCount == 0
+|     |      |          |
+|     |      1          false
+|     grails.validation.ValidationErrors: 1 errors
+|     Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+colorshare.User : (unsaved)
+
+	at colorshare.UserIntegrationSpec.Saving user to the database(UserIntegrationSpec.groovy:20)
+2018-01-16 10:23:34,707 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+kevin.errors.errorCount == 0
+|     |      |          |
+|     |      1          false
+|     grails.validation.ValidationErrors: 1 errors
+|     Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+colorshare.User : (unsaved)
+
+	at colorshare.UserIntegrationSpec.Saving user to the database(UserIntegrationSpec.groovy:20)
+2018-01-16 10:23:34,709 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+kevin.errors.errorCount == 0
+|     |      |          |
+|     |      1          false
+|     grails.validation.ValidationErrors: 1 errors
+|     Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+colorshare.User : (unsaved)
+
+	at colorshare.UserIntegrationSpec.Saving user to the database(UserIntegrationSpec.groovy:20)
+2018-01-16 10:23:34,709 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+kevin.errors.errorCount == 0
+|     |      |          |
+|     |      1          false
+|     grails.validation.ValidationErrors: 1 errors
+|     Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+colorshare.User : (unsaved)
+
+	at colorshare.UserIntegrationSpec.Saving user to the database(UserIntegrationSpec.groovy:20)
+2018-01-16 10:23:34,709 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+kevin.errors.errorCount == 0
+|     |      |          |
+|     |      1          false
+|     grails.validation.ValidationErrors: 1 errors
+|     Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+colorshare.User : (unsaved)
+
+	at colorshare.UserIntegrationSpec.Saving user to the database(UserIntegrationSpec.groovy:20)
+2018-01-16 10:23:34,709 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+kevin.errors.errorCount == 0
+|     |      |          |
+|     |      1          false
+|     grails.validation.ValidationErrors: 1 errors
+|     Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+colorshare.User : (unsaved)
+
+	at colorshare.UserIntegrationSpec.Saving user to the database(UserIntegrationSpec.groovy:20)
+2018-01-16 10:23:34,717 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractSavePersistentMethod.doInvokeInternal(AbstractSavePersistentMethod.java:190)
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractDynamicPersistentMethod.invoke(AbstractDynamicPersistentMethod.java:68)
+	at org.codehaus.groovy.grails.orm.hibernate.HibernateGormInstanceApi.save(HibernateGormInstanceApi.groovy:195)
+	at colorshare.UserIntegrationSpec.Updating a saved user changes its properties(UserIntegrationSpec.groovy:28)
+2018-01-16 10:23:34,717 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Updating a saved user changes its properties(UserIntegrationSpec.groovy:28)
+2018-01-16 10:23:34,718 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Updating a saved user changes its properties(UserIntegrationSpec.groovy:28)
+2018-01-16 10:23:34,718 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Updating a saved user changes its properties(UserIntegrationSpec.groovy:28)
+2018-01-16 10:23:34,718 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Updating a saved user changes its properties(UserIntegrationSpec.groovy:28)
+2018-01-16 10:23:34,718 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Updating a saved user changes its properties(UserIntegrationSpec.groovy:28)
+2018-01-16 10:23:34,728 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractSavePersistentMethod.doInvokeInternal(AbstractSavePersistentMethod.java:190)
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractDynamicPersistentMethod.invoke(AbstractDynamicPersistentMethod.java:68)
+	at org.codehaus.groovy.grails.orm.hibernate.HibernateGormInstanceApi.save(HibernateGormInstanceApi.groovy:195)
+	at colorshare.UserIntegrationSpec.Deleting a user removes it from the database(UserIntegrationSpec.groovy:42)
+2018-01-16 10:23:34,729 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Deleting a user removes it from the database(UserIntegrationSpec.groovy:42)
+2018-01-16 10:23:34,730 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Deleting a user removes it from the database(UserIntegrationSpec.groovy:42)
+2018-01-16 10:23:34,731 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Deleting a user removes it from the database(UserIntegrationSpec.groovy:42)
+2018-01-16 10:23:34,731 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Deleting a user removes it from the database(UserIntegrationSpec.groovy:42)
+2018-01-16 10:23:34,731 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'colorshare.User' on field 'password': rejected value [password123]; codes [colorshare.User.password.size.error.colorshare.User.password,colorshare.User.password.size.error.password,colorshare.User.password.size.error.java.lang.String,colorshare.User.password.size.error,user.password.size.error.colorshare.User.password,user.password.size.error.password,user.password.size.error.java.lang.String,user.password.size.error,colorshare.User.password.size.toobig.colorshare.User.password,colorshare.User.password.size.toobig.password,colorshare.User.password.size.toobig.java.lang.String,colorshare.User.password.size.toobig,user.password.size.toobig.colorshare.User.password,user.password.size.toobig.password,user.password.size.toobig.java.lang.String,user.password.size.toobig,size.toobig.colorshare.User.password,size.toobig.password,size.toobig.java.lang.String,size.toobig]; arguments [password,class colorshare.User,password123,6,10]; default message [Property [{0}] of class [{1}] with value [{2}] does not fall within the valid size range from [{3}] to [{4}]]
+
+	at colorshare.UserIntegrationSpec.Deleting a user removes it from the database(UserIntegrationSpec.groovy:42)
+2018-01-16 10:24:42,514 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: Exception evaluating property 'size' for java.util.HashSet, Reason: groovy.lang.MissingPropertyException: No such property: size for class: colorshare.Color
+Possible solutions: id
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:23)
+2018-01-16 10:24:42,516 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: Exception evaluating property 'size' for java.util.HashSet, Reason: groovy.lang.MissingPropertyException: No such property: size for class: colorshare.Color
+Possible solutions: id
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:23)
+2018-01-16 10:24:42,518 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: Exception evaluating property 'size' for java.util.HashSet, Reason: groovy.lang.MissingPropertyException: No such property: size for class: colorshare.Color
+Possible solutions: id
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:23)
+2018-01-16 10:24:42,518 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: Exception evaluating property 'size' for java.util.HashSet, Reason: groovy.lang.MissingPropertyException: No such property: size for class: colorshare.Color
+Possible solutions: id
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:23)
+2018-01-16 10:24:42,526 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: Exception evaluating property 'size' for java.util.HashSet, Reason: groovy.lang.MissingPropertyException: No such property: size for class: colorshare.Color
+Possible solutions: id
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:23)
+2018-01-16 10:24:42,526 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: Exception evaluating property 'size' for java.util.HashSet, Reason: groovy.lang.MissingPropertyException: No such property: size for class: colorshare.Color
+Possible solutions: id
+	at colorshare.ColorIntegrationSpec.Adding colors to user links the color to the user(ColorIntegrationSpec.groovy:23)
