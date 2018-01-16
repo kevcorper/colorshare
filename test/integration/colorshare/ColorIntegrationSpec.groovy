@@ -22,4 +22,20 @@ class ColorIntegrationSpec extends Specification {
         then: "The user has a list of colors attached"
         User.get(user.id).colors.size() == 3
     }
+
+    def "Ensure that colors linked to a user can be retrieved"() {
+        given: "A user with several colors"
+        def user = new User(userName: "Kevin", password: "password123")
+        user.save(failOnError: true)
+        user.addToColors(new Color(hexCode: "#fdfdfd"))
+        user.addToColors(new Color(hexCode: "#666"))
+        user.addToColors(new Color(hexCode: "#cdcdcd"))
+
+        when: "The user is retrieved by ID"
+        def foundUser = User. get(user.id)
+        def sortedColors = foundUser.colors.collect {it.hexCode}.sort()
+
+        then: "The colors appear on the retrieved user"
+        sortedColors == ["#666", "#cdcdcd", "#fdfdfd"]
+    }
 }

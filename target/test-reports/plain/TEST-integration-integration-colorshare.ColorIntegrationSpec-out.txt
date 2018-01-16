@@ -1,1 +1,2 @@
 --Output from Adding colors to user links the color to the user--
+--Output from Ensure that colors linked to a user can be retrieved--

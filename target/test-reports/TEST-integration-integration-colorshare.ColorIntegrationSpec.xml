@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" name="colorshare.ColorIntegrationSpec" tests="1" time="0.313" timestamp="2018-01-16T15:25:35">
+<testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" name="colorshare.ColorIntegrationSpec" tests="2" time="0.334" timestamp="2018-01-16T15:34:19">
   <properties />
-  <testcase classname="colorshare.ColorIntegrationSpec" name="Adding colors to user links the color to the user" time="0.312" />
+  <testcase classname="colorshare.ColorIntegrationSpec" name="Adding colors to user links the color to the user" time="0.308" />
+  <testcase classname="colorshare.ColorIntegrationSpec" name="Ensure that colors linked to a user can be retrieved" time="0.023" />
   <system-out><![CDATA[--Output from Adding colors to user links the color to the user--
+--Output from Ensure that colors linked to a user can be retrieved--
 ]]></system-out>
   <system-err><![CDATA[--Output from Adding colors to user links the color to the user--
+--Output from Ensure that colors linked to a user can be retrieved--
 ]]></system-err>
 </testsuite>

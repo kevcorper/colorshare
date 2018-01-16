@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2eb1a5c-40a1-4936-82ea-6e9d9967cc5b" name="Default" comment="" />
+    <list default="true" id="d2eb1a5c-40a1-4936-82ea-6e9d9967cc5b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/integration/colorshare/ColorIntegrationSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/integration/colorshare/ColorIntegrationSpec.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-integration-integration-colorshare.ColorIntegrationSpec.xml" afterPath="$PROJECT_DIR$/target/test-reports/TEST-integration-integration-colorshare.ColorIntegrationSpec.xml" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-integration-integration-colorshare.UserIntegrationSpec.xml" afterPath="$PROJECT_DIR$/target/test-reports/TEST-integration-integration-colorshare.UserIntegrationSpec.xml" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" afterPath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/html/all.html" afterPath="$PROJECT_DIR$/target/test-reports/html/all.html" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/html/colorshare/0_ColorIntegrationSpec.html" afterPath="$PROJECT_DIR$/target/test-reports/html/colorshare/0_ColorIntegrationSpec.html" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/html/colorshare/1_UserIntegrationSpec.html" afterPath="$PROJECT_DIR$/target/test-reports/html/colorshare/1_UserIntegrationSpec.html" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/html/failed.html" afterPath="$PROJECT_DIR$/target/test-reports/html/failed.html" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/html/index.html" afterPath="$PROJECT_DIR$/target/test-reports/html/index.html" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.ColorIntegrationSpec-err.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.ColorIntegrationSpec-err.txt" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.ColorIntegrationSpec-out.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.ColorIntegrationSpec-out.txt" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.ColorIntegrationSpec.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.ColorIntegrationSpec.txt" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.UserIntegrationSpec.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-integration-integration-colorshare.UserIntegrationSpec.txt" />
+      <change beforePath="$PROJECT_DIR$/test/integration/colorshare/ColorIntegrationSpec.groovy" afterPath="$PROJECT_DIR$/test/integration/colorshare/ColorIntegrationSpec.groovy" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/eclipseclasses/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +42,8 @@
       <file leaf-file-name="ColorIntegrationSpec.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/integration/colorshare/ColorIntegrationSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="450">
+              <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -103,6 +120,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -131,6 +151,7 @@
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -356,12 +377,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516074470410</updated>
       <workItem from="1516074475122" duration="598000" />
-      <workItem from="1516112572769" duration="3645000" />
+      <workItem from="1516112572769" duration="4084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4243000" />
+    <option name="totallyTimeSpent" value="4682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
@@ -376,7 +397,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2099792" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -485,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/integration/colorshare/ColorIntegrationSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="450">
+          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
           <folding />
         </state>
       </provider>
