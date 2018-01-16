@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" name="colorshare.UserIntegrationSpec" tests="3" time="0.093" timestamp="2018-01-16T15:34:19">
+<testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" name="colorshare.UserIntegrationSpec" tests="3" time="0.075" timestamp="2018-01-16T17:58:59">
   <properties />
-  <testcase classname="colorshare.UserIntegrationSpec" name="Saving user to the database" time="0.023" />
-  <testcase classname="colorshare.UserIntegrationSpec" name="Updating a saved user changes its properties" time="0.013" />
-  <testcase classname="colorshare.UserIntegrationSpec" name="Deleting a user removes it from the database" time="0.056" />
+  <testcase classname="colorshare.UserIntegrationSpec" name="Saving user to the database" time="0.022" />
+  <testcase classname="colorshare.UserIntegrationSpec" name="Updating a saved user changes its properties" time="0.016" />
+  <testcase classname="colorshare.UserIntegrationSpec" name="Deleting a user removes it from the database" time="0.036" />
   <system-out><![CDATA[--Output from Saving user to the database--
 --Output from Updating a saved user changes its properties--
 --Output from Deleting a user removes it from the database--

@@ -1,5 +1,5 @@
 Testsuite: colorshare.UserIntegrationSpec
-Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.093 sec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.075 sec
 ------------- Standard Output ---------------
 --Output from Saving user to the database--
 --Output from Updating a saved user changes its properties--
@@ -11,6 +11,6 @@ Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.093 sec
 --Output from Deleting a user removes it from the database--
 ------------- ---------------- ---------------
 
-Testcase: Saving user to the database took 0.023 sec
-Testcase: Updating a saved user changes its properties took 0.013 sec
-Testcase: Deleting a user removes it from the database took 0.056 sec
+Testcase: Saving user to the database took 0.022 sec
+Testcase: Updating a saved user changes its properties took 0.016 sec
+Testcase: Deleting a user removes it from the database took 0.036 sec
