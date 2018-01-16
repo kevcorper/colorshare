@@ -4,6 +4,6 @@
         <div class="color-hex">${color.hexCode}</div>
         <div class="color-creator">submitted by: ${color.creator.userName}</div>
         <div class="color-date">${color.dateCreated.toString().substring(0,10)}</div>
-        <div class="color-favorite">${color.dateCreated.toString().substring(0,10)}</div>
+        <div class="color-favorite"><i class="fa fa-heart-o"></i></div>
     </div>
 </div>
