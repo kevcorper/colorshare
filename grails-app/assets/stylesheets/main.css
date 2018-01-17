@@ -10,26 +10,18 @@ h1, h2, h3, h4, h5, h6 {
 
 /* BASE LAYOUT */
 
-html {
-	background-color: #ddd;
-	background-image: -moz-linear-gradient(center top, #aaa, #ddd);
-	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #aaa), color-stop(1, #ddd));
-	background-image: linear-gradient(top, #aaa, #ddd);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr = '#aaaaaa', EndColorStr = '#dddddd');
-	background-repeat: no-repeat;
-	height: 100%;
-	/* change the box model to exclude the padding from the calculation of 100% height (IE8+) */
-	-webkit-box-sizing: border-box;
-	   -moz-box-sizing: border-box;
-	        box-sizing: border-box;
-}
-
-html.no-cssgradients {
-	background-color: #aaa;
-}
 
 .ie6 html {
 	height: 100%;
+}
+
+html {
+	width: 95%;
+	max-width: 1250px;
+	margin: 0 auto;
+	height: 100vh;
+	background: #eee;
+	position: relative;
 }
 
 html * {
@@ -39,33 +31,22 @@ html * {
 body {
 	background: #ffffff;
 	color: #333333;
+	height: 100vh;
 	margin: 0 auto;
-	max-width: 960px;
 	overflow-x: hidden; /* prevents box-shadow causing a horizontal scrollbar in firefox when viewport < 960px wide */
-	   -moz-box-shadow: 0 0 0.3em #255b17;
-	-webkit-box-shadow: 0 0 0.3em #255b17;
-	        box-shadow: 0 0 0.3em #255b17;
+	   -moz-box-shadow: 0 0 0.3em #999;
+	-webkit-box-shadow: 0 0 0.3em #999;
+	        box-shadow: 0 0 0.3em #999;
 }
 
-#grailsLogo {
-	background-color: #abbf78;
+#mainHeader {
+	background-color: #cecece;
 }
 
-/* replace with .no-boxshadow body if you have modernizr available */
-.ie6 body,
-.ie7 body,
-.ie8 body {
-	border-color: #255b17;
-	border-style: solid;
-	border-width: 0 1px;
-}
 
-.ie6 body {
-	height: 100%;
-}
 
 a:link, a:visited, a:hover {
-	color: #48802c;
+	color: #666;
 }
 
 a:hover, a:active {
@@ -73,10 +54,12 @@ a:hover, a:active {
 }
 
 h1 {
-	color: #48802c;
-	font-weight: normal;
-	font-size: 1.25em;
-	margin: 0.8em 0 0.3em 0;
+	color: #999;
+	font-style: italic;
+	font-weight: 300;
+	font-size: 1.2em;
+	text-align: center;
+	margin: 1em auto;
 }
 
 ul {
@@ -89,37 +72,63 @@ img {
 
 /* GENERAL */
 
-#grailsLogo a {
+#mainHeader a {
 	display: inline-block;
-	margin: 1em;
+	margin: 0.75em;
+	font-size: 1.5em;
+	color: white;
+	text-decoration: none;
 }
 
-.content {
+.share-text {
+	text-decoration: overline;
+	text-transform: uppercase;
 }
 
-.content h1 {
-	border-bottom: 1px solid #CCCCCC;
-	margin: 0.8em 1em 0.3em;
-	padding: 0 0.25em;
+#allColors {
+	margin: 0 auto;
+	text-align: center;
 }
 
-.scaffold-list h1 {
-	border: none;
+.color-info {
+	margin-top: 20px;
 }
+
+.color-box {
+	display: inline-block;
+	padding: 0;
+	width: 200px;
+	height: 200px;
+	border: 1px solid #dedede;
+	margin: 10px;
+}
+
+.color-date {
+	font-size: 10px;
+}
+
 
 .footer {
-	background: #abbf78;
-	color: #000;
+	background: #cecece;
+	color: #fff;
 	clear: both;
 	font-size: 0.8em;
 	margin-top: 1.5em;
-	padding: 1em;
-	min-height: 1em;
+	padding: 1em 0;
+	min-height: 0.8em;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
 
 .footer a {
 	color: #255b17;
 }
+
+
+
+
+/*  Scaffold CSS */
 
 .spinner {
 	background: url(../images/spinner.gif) 50% 50% no-repeat transparent;
