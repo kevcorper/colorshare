@@ -10,17 +10,16 @@ class ColorController {
     }
 
     def create() {
-        def user = User.findByUserName(params.id)
+        def user = session.user
         if (!user) {
             response.sendError(404)
-        } else {
-            [ user: user ]
+            redirect (controller: "login", action: 'login')
         }
     }
 
     def addColor() {
         try {
-            def newColor = colorService.createColor(params.id, params.hexCode)
+            def newColor = colorService.createColor(session.user.userName, params.hexCode)
             flash.message = "Success"
         } catch (ColorException pe) {
             flash.message = pe.message

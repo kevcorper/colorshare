@@ -19,8 +19,18 @@
 	</head>
 	<body>
 	<div id="mainHeader">
-		<a href="/colorshare">color<span class="share-text">Share</span></a>
-		<div id="mainNav"></div>
+		<g:link href="/">color<span class="share-text">Share</span></g:link>
+		<div id="mainNav">
+			<g:link href="/">Home</g:link>
+			<g:if test="${session.user}" >
+				<g:link controller= "color" action="create">Add Color</g:link>
+				<g:link controller= "login" action="logout">Log Out</g:link>
+			</g:if>
+			<g:else>
+				<g:link controller= "login">Log In</g:link>
+				<g:link controller= "user" action="register">Register</g:link>
+			</g:else>
+		</div>
 	</div>
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo"></div>

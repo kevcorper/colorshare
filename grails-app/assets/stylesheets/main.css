@@ -44,6 +44,12 @@ body {
 	background-color: #cecece;
 }
 
+div#mainNav {
+	display: inline-block;
+	float: right;
+	font-size: 11px;
+	margin: .8em;
+}
 
 
 a:link, a:visited, a:hover {
