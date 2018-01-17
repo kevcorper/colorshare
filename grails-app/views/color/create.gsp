@@ -8,8 +8,15 @@
 
 <body>
 <h1>Add a color to the feed</h1>
-<div id ="allColors">
-
-</div>
+<g:hasErrors>
+    <div class="errors">
+        <g:renderErrors bean="${color}" as="list"/>
+    </div>
+</g:hasErrors>
+<g:form action="addColor" id="${params.id}">
+    <label for="hexCode">Color Hex Code</label>
+    <g:textField name="hexCode" id="hexCode"/></br>
+    <g:submitButton name="color" value="Submit"/>
+</g:form>
 </body>
 </html>

@@ -31,7 +31,8 @@ html * {
 body {
 	background: #ffffff;
 	color: #333333;
-	height: 100vh;
+	position: relative;
+	min-height: 100vh;
 	margin: 0 auto;
 	overflow-x: hidden; /* prevents box-shadow causing a horizontal scrollbar in firefox when viewport < 960px wide */
 	   -moz-box-shadow: 0 0 0.3em #999;
@@ -88,6 +89,7 @@ img {
 #allColors {
 	margin: 0 auto;
 	text-align: center;
+	padding-bottom: 50px;
 }
 
 .color-info {

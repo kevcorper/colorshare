@@ -11,12 +11,12 @@ class BootStrap {
     private createSampleData() {
         def now = new Date()
 
-        def chuck = new User(
-                userName: "chuck_norris",
+        def jess = new User(
+                userName: "jess",
                 password: "password123",
                 dateCreated: now).save(failOnError: true)
         def david = new User(
-                userName: "davidwu",
+                userName: "david",
                 password: "password123",
                 dateCreated: now).save(failOnError: true)
         def kevin = new User(
@@ -32,10 +32,10 @@ class BootStrap {
                 password: "password123",
                 dateCreated: now).save(failOnError: true)
 
-        chuck.addToColors(hexCode: "#adadad", dateCreated: now)
-        chuck.addToColors(hexCode: "#1d23ff", dateCreated: now)
-        chuck.addToColors(hexCode: "#ddd", dateCreated: now)
-        chuck.save(failOnError: true)
+        jess.addToColors(hexCode: "#adadad", dateCreated: now)
+        jess.addToColors(hexCode: "#1d23ff", dateCreated: now)
+        jess.addToColors(hexCode: "#ddd", dateCreated: now)
+        jess.save(failOnError: true)
         david.addToColors(hexCode: "#babadd", dateCreated: now)
         david.addToColors(hexCode: "#4f4fdd", dateCreated: now)
         david.addToColors(hexCode: "#aaa", dateCreated: now)
@@ -50,18 +50,18 @@ class BootStrap {
         kat.addToColors(hexCode: "#b4b4cc", dateCreated: now)
         kat.save(failOnError: true)
 
-        chuck.addToFavoriteColors(scott.colors[0])
-        chuck.addToFavoriteColors(scott.colors[1])
+        jess.addToFavoriteColors(scott.colors[0])
+        jess.addToFavoriteColors(scott.colors[1])
         david.addToFavoriteColors(scott.colors[1])
         david.addToFavoriteColors(kevin.colors[1])
         kat.addToFavoriteColors(kevin.colors[0])
         kat.addToFavoriteColors(kevin.colors[1])
         scott.addToFavoriteColors(kat.colors[1])
-        scott.addToFavoriteColors(chuck.colors[1])
+        scott.addToFavoriteColors(jess.colors[1])
         kat.save(failOnError: true)
         scott.save(failOnError: true)
         david.save(failOnError: true)
-        chuck.save(failOnError: true)
+        jess.save(failOnError: true)
     }
 
 }
