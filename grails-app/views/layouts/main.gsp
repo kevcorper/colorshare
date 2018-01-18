@@ -22,7 +22,7 @@
 	<div id="mainHeader">
 		<g:link href="/">color<span class="share-text">Share</span></g:link>
 		<div id="mainNav">
-			<g:link href="/">Home</g:link>
+			<g:link controller="color" action="index">Home</g:link>
 			<g:if test="${session.user}" >
 				<g:link controller= "color" action="create">Add Color</g:link>
 				<g:link controller= "color" action="favorites">My Favorites</g:link>
