@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>Color Feed</title>
+    <title>User Registration</title>
     <g:javascript library="jquery"/>
     <meta name="layout" content="main"/>
 </head>
