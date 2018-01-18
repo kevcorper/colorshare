@@ -15,7 +15,7 @@
 		<script src="https://use.fontawesome.com/1b9f17ad48.js"></script>
   		<asset:stylesheet src="application.css"/>
 		<asset:javascript src="application.js"/>
-		<r:layoutResources/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<g:layoutHead/>
 	</head>
 	<body>
@@ -26,7 +26,7 @@
 			<g:if test="${session.user}" >
 				<g:link controller= "color" action="create">Add Color</g:link>
 				<g:link controller= "color" action="favorites">My Favorites</g:link>
-				<g:link controller= "color" action="userColors">My Colors</g:link>
+				<g:link controller= "color" action="userColors">${session.user.userName}'s Colors</g:link>
 				<g:link controller= "login" action="logout">Log Out</g:link>
 			</g:if>
 			<g:else>
@@ -38,6 +38,5 @@
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo"></div>
 		<div id="spinner" class="spinner" style="display:none;"><g:message code="spinner.alt" default="Loading&hellip;"/></div>
-	<r:layoutResources/>
 	</body>
 </html>
