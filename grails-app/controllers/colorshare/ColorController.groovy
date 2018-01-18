@@ -9,6 +9,26 @@ class ColorController {
         [colors: Color.getAll()]
     }
 
+    def userColors() {
+        def currentUser = session.user
+        def user        = User.findByUserName(currentUser.userName)
+        if (!user) {
+            response.sendError(404)
+            redirect (controller: "login", action: 'login')
+        }
+        [ colors: user.colors ]
+    }
+
+    def favorites() {
+        def currentUser = session.user
+        def user        = User.findByUserName(currentUser.userName)
+        if (!user) {
+            response.sendError(404)
+            redirect (controller: "login", action: 'login')
+        }
+        [ colors: user.favoriteColors ]
+    }
+
     def create() {
         def user = session.user
         if (!user) {
