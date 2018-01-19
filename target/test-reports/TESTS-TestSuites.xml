@@ -1,54 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" id="0" name="ColorIntegrationSpec" package="colorshare" tests="2" time="0.357" timestamp="2018-01-16T17:58:59">
+  <testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" id="0" name="ColorControllerSpec" package="colorshare" tests="6" time="5.17" timestamp="2018-01-19T18:57:26">
       <properties />
 
-      <testcase classname="colorshare.ColorIntegrationSpec" name="Adding colors to user links the color to the user" time="0.337" />
+      <testcase classname="colorshare.ColorControllerSpec" name="Get all colors from all users when visiting home aka color-index" time="4.789" />
 
-      <testcase classname="colorshare.ColorIntegrationSpec" name="Ensure that colors linked to a user can be retrieved" time="0.019" />
+      <testcase classname="colorshare.ColorControllerSpec" name="Check that session is empty when visiting color index without being logged in" time="0.107" />
 
-      <system-out><![CDATA[--Output from Adding colors to user links the color to the user--
---Output from Ensure that colors linked to a user can be retrieved--
+      <testcase classname="colorshare.ColorControllerSpec" name="Get a user&apos;s created colors when viewing &apos;My Colors&apos;" time="0.072" />
+
+      <testcase classname="colorshare.ColorControllerSpec" name="check that an attempt to see created colors without logged in user returns an error" time="0.044" />
+
+      <testcase classname="colorshare.ColorControllerSpec" name="Get a users favorite colors list given they are signed in" time="0.095" />
+
+      <testcase classname="colorshare.ColorControllerSpec" name="check that an attempt to see favorited colors without logged in user returns an error" time="0.031" />
+
+      <system-out><![CDATA[--Output from Get all colors from all users when visiting home aka color-index--
+--Output from Check that session is empty when visiting color index without being logged in--
+--Output from Get a user's created colors when viewing 'My Colors'--
+--Output from check that an attempt to see created colors without logged in user returns an error--
+--Output from Get a users favorite colors list given they are signed in--
+--Output from check that an attempt to see favorited colors without logged in user returns an error--
 ]]></system-out>
 
-      <system-err><![CDATA[--Output from Adding colors to user links the color to the user--
---Output from Ensure that colors linked to a user can be retrieved--
+      <system-err><![CDATA[--Output from Get all colors from all users when visiting home aka color-index--
+--Output from Check that session is empty when visiting color index without being logged in--
+--Output from Get a user's created colors when viewing 'My Colors'--
+--Output from check that an attempt to see created colors without logged in user returns an error--
+--Output from Get a users favorite colors list given they are signed in--
+--Output from check that an attempt to see favorited colors without logged in user returns an error--
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" id="1" name="FavoriteIntegrationSpec" package="colorshare" tests="2" time="0.043" timestamp="2018-01-16T17:58:59">
+  <testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" id="1" name="LoginControllerSpec" package="colorshare" tests="1" time="0.241" timestamp="2018-01-19T18:57:31">
       <properties />
 
-      <testcase classname="colorshare.FavoriteIntegrationSpec" name="Add a color to a user&apos;s favorite" time="0.025" />
+      <testcase classname="colorshare.LoginControllerSpec" name="A session user is defined when a user signs in" time="0.231" />
 
-      <testcase classname="colorshare.FavoriteIntegrationSpec" name="Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved" time="0.017" />
-
-      <system-out><![CDATA[--Output from Add a color to a user's favorite--
---Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
+      <system-out><![CDATA[--Output from A session user is defined when a user signs in--
 ]]></system-out>
 
-      <system-err><![CDATA[--Output from Add a color to a user's favorite--
---Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="ITs-MacBook-Pro.local" id="2" name="UserIntegrationSpec" package="colorshare" tests="3" time="0.075" timestamp="2018-01-16T17:58:59">
-      <properties />
-
-      <testcase classname="colorshare.UserIntegrationSpec" name="Saving user to the database" time="0.022" />
-
-      <testcase classname="colorshare.UserIntegrationSpec" name="Updating a saved user changes its properties" time="0.016" />
-
-      <testcase classname="colorshare.UserIntegrationSpec" name="Deleting a user removes it from the database" time="0.036" />
-
-      <system-out><![CDATA[--Output from Saving user to the database--
---Output from Updating a saved user changes its properties--
---Output from Deleting a user removes it from the database--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from Saving user to the database--
---Output from Updating a saved user changes its properties--
---Output from Deleting a user removes it from the database--
+      <system-err><![CDATA[--Output from A session user is defined when a user signs in--
 ]]></system-err>
 
   </testsuite>

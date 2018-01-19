@@ -9,12 +9,12 @@ import spock.lang.Specification
 @TestFor(LoginController)
 class LoginControllerSpec extends Specification {
 
-    def setup() {
+    def "A session user is defined when a user signs in"() {
+        given: "A created user"
+
+        when: "The user attempts to log in"
+
+        then: "The session user is set as the correct user"
     }
 
-    def cleanup() {
-    }
-
-    void "test something"() {
-    }
 }

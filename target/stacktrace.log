@@ -6684,3 +6684,274 @@ Caused by: org.codehaus.groovy.grails.web.pages.exceptions.GroovyPagesException:
 Caused by: groovy.lang.MissingPropertyException: No such property: userName for class: java.lang.String
 	at Users_kevin_p_Desktop_colorshare_grails_app_views_color__colorBox_gsp$_run_closure2.doCall(Users_kevin_p_Desktop_colorshare_grails_app_views_color__colorBox_gsp:17)
 	... 8 more
+2018-01-19 13:10:48,353 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,354 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,355 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,355 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,363 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,364 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:14:56,019 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,027 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,027 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:18:03,963 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,965 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,966 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,966 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,972 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,972 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,490 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,492 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,493 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,493 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,501 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,502 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:21:42,113 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,114 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,115 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,115 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,124 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,124 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,533 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,535 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,536 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,536 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,600 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,600 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,794 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,800 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,802 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,802 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,812 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,812 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:46:14,184 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,186 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,187 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,187 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,191 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,191 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:49:07,801 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,803 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,804 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,804 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,808 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,808 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,011 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at org.codehaus.groovy.grails.web.mapping.ResponseRedirector.redirect(ResponseRedirector.groovy:70)
+	at org.codehaus.groovy.grails.web.metaclass.RedirectDynamicMethod.invoke(RedirectDynamicMethod.java:145)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllersApi.redirect(ControllersApi.java:250)
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,014 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,014 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,015 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,020 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,020 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,939 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,941 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,942 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,942 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,946 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,946 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,751 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.propertyMissing(ControllerTagLibraryApi.java:121)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,809 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,815 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,816 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,824 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,825 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,889 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.propertyMissing(ControllerTagLibraryApi.java:121)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,890 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,892 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,893 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,896 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,897 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
