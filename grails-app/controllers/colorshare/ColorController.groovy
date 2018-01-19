@@ -14,7 +14,7 @@ class ColorController {
         if (!currentUser) {
             response.sendError(404)
         } else {
-            def user = User.findByUserName(currentUser.userName)
+            def user = User.findById(currentUser.id)
             [ colors: user.colors ]
         }
     }
@@ -24,7 +24,7 @@ class ColorController {
         if (!currentUser) {
             response.sendError(404)
         } else {
-            def user = User.findByUserName(currentUser.userName)
+            def user = User.findById(currentUser.id)
             [colors: user.favoriteColors]
         }
     }
