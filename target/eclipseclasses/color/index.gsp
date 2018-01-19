@@ -2,8 +2,8 @@
 <html>
 <head>
     <title>Color Feed</title>
-    <g:javascript library="jquery"/>
     <meta name="layout" content="main"/>
+    <asset:javascript src="favorites"/>
 </head>
 
 <body>

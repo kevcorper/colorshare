@@ -13,7 +13,7 @@
         <g:renderErrors bean="${color}" as="list"/>
     </div>
 </g:hasErrors>
-<g:form action="addColor" id="${params.id}">
+<g:form action="addColor">
     <label for="hexCode">Color Hex Code</label>
     <g:textField name="hexCode"/></br>
     <g:submitButton name="color" value="Submit"/>

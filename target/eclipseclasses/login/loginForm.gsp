@@ -8,16 +8,16 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>Color Feed</title>
+    <title>User Login</title>
     <g:javascript library="jquery"/>
     <meta name="layout" content="main"/>
 </head>
 
 <body>
-<h1>Add a color to the feed</h1>
+<h1>Get to colorizing!</h1>
 <g:hasErrors>
     <div class="errors">
-        <g:renderErrors bean="${color}" as="list"/>
+        <g:renderErrors bean="${flash}" as="list"/>
     </div>
 </g:hasErrors>
 <g:form action="logIn">
@@ -29,5 +29,6 @@
 
     <g:submitButton name="logIn" value="Log In"/>
 </g:form>
+<g:link controller="user" action="register">Register</g:link>
 </body>
 </html>

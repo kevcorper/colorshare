@@ -15,7 +15,7 @@
      - All tests </h1>
 <p class="intro">
                         Executed
-                        7
+                        14
                         tests
                     
                         without a single error or failure!
@@ -43,31 +43,71 @@
 <div class="clear"></div>
 <div class="testsuite success">
 <div class="header">
-<h2>ColorIntegrationSpec</h2>
+<h2>ColorControllerSpec</h2>
 <h3>
                         Executed
-                        2
+                        6
                         tests
                     
                         without a single error or failure!
                     </h3>
 </div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="Adding colors to user links the color to the user">
+<div class="testcase clearfix success grid_8 alpha omega" data-name="Get all colors from all users when visiting home aka color-index">
 <div class="grid_3 alpha">
 <p>
-<span class="icon success"></span><b class="testname message success">Adding colors to user links the color to the user</b>
+<span class="icon success"></span><b class="testname message success">Get all colors from all users when visiting home aka color-index</b>
 </p>
-<p class="summary">Executed in 0.337 seconds.</p>
+<p class="summary">Executed in 5.694 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
 </div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="Ensure that colors linked to a user can be retrieved">
+<div class="testcase clearfix success grid_8 alpha omega" data-name="Check that session is empty when visiting color index without being logged in">
 <div class="grid_3 alpha">
 <p>
-<span class="icon success"></span><b class="testname message success">Ensure that colors linked to a user can be retrieved</b>
+<span class="icon success"></span><b class="testname message success">Check that session is empty when visiting color index without being logged in</b>
 </p>
-<p class="summary">Executed in 0.019 seconds.</p>
+<p class="summary">Executed in 0.185 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="Get a user's created colors when viewing 'My Colors'">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">Get a user's created colors when viewing 'My Colors'</b>
+</p>
+<p class="summary">Executed in 0.092 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="check that an attempt to see created colors without logged in user returns an error">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">check that an attempt to see created colors without logged in user returns an error</b>
+</p>
+<p class="summary">Executed in 0.053 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="Get a users favorite colors list given they are signed in">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">Get a users favorite colors list given they are signed in</b>
+</p>
+<p class="summary">Executed in 0.093 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="check that an attempt to see favorited colors without logged in user returns an error">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">check that an attempt to see favorited colors without logged in user returns an error</b>
+</p>
+<p class="summary">Executed in 0.049 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
@@ -75,14 +115,22 @@
 <div class="clearfix output footer">
 <div class="sysout">
 <h2>Standard output</h2>
-<pre class="stdout">--Output from Adding colors to user links the color to the user--
---Output from Ensure that colors linked to a user can be retrieved--
+<pre class="stdout">--Output from Get all colors from all users when visiting home aka color-index--
+--Output from Check that session is empty when visiting color index without being logged in--
+--Output from Get a user's created colors when viewing 'My Colors'--
+--Output from check that an attempt to see created colors without logged in user returns an error--
+--Output from Get a users favorite colors list given they are signed in--
+--Output from check that an attempt to see favorited colors without logged in user returns an error--
 </pre>
 </div>
 <div class="syserr">
 <h2>System error</h2>
-<pre class="syserr">--Output from Adding colors to user links the color to the user--
---Output from Ensure that colors linked to a user can be retrieved--
+<pre class="syserr">--Output from Get all colors from all users when visiting home aka color-index--
+--Output from Check that session is empty when visiting color index without being logged in--
+--Output from Get a user's created colors when viewing 'My Colors'--
+--Output from check that an attempt to see created colors without logged in user returns an error--
+--Output from Get a users favorite colors list given they are signed in--
+--Output from check that an attempt to see favorited colors without logged in user returns an error--
 </pre>
 </div>
 </div>
@@ -90,54 +138,7 @@
 </div>
 <div class="testsuite success">
 <div class="header">
-<h2>FavoriteIntegrationSpec</h2>
-<h3>
-                        Executed
-                        2
-                        tests
-                    
-                        without a single error or failure!
-                    </h3>
-</div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="Add a color to a user's favorite">
-<div class="grid_3 alpha">
-<p>
-<span class="icon success"></span><b class="testname message success">Add a color to a user's favorite</b>
-</p>
-<p class="summary">Executed in 0.025 seconds.</p>
-</div>
-<div class="grid_5 omega outputinfo"></div>
-<div class="clear"></div>
-</div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved">
-<div class="grid_3 alpha">
-<p>
-<span class="icon success"></span><b class="testname message success">Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved</b>
-</p>
-<p class="summary">Executed in 0.017 seconds.</p>
-</div>
-<div class="grid_5 omega outputinfo"></div>
-<div class="clear"></div>
-</div>
-<div class="clearfix output footer">
-<div class="sysout">
-<h2>Standard output</h2>
-<pre class="stdout">--Output from Add a color to a user's favorite--
---Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
-</pre>
-</div>
-<div class="syserr">
-<h2>System error</h2>
-<pre class="syserr">--Output from Add a color to a user's favorite--
---Output from Ensure that a user as both a cerator and favoriter and the actual color can be correctly retrieved--
-</pre>
-</div>
-</div>
-<div class="clear"></div>
-</div>
-<div class="testsuite success">
-<div class="header">
-<h2>UserIntegrationSpec</h2>
+<h2>LoginControllerSpec</h2>
 <h3>
                         Executed
                         3
@@ -146,32 +147,32 @@
                         without a single error or failure!
                     </h3>
 </div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="Saving user to the database">
+<div class="testcase clearfix success grid_8 alpha omega" data-name="A session user is defined when a user signs in">
 <div class="grid_3 alpha">
 <p>
-<span class="icon success"></span><b class="testname message success">Saving user to the database</b>
+<span class="icon success"></span><b class="testname message success">A session user is defined when a user signs in</b>
 </p>
-<p class="summary">Executed in 0.022 seconds.</p>
+<p class="summary">Executed in 0.331 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
 </div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="Updating a saved user changes its properties">
+<div class="testcase clearfix success grid_8 alpha omega" data-name="A session user is not defined when a user signs in with incorrect information">
 <div class="grid_3 alpha">
 <p>
-<span class="icon success"></span><b class="testname message success">Updating a saved user changes its properties</b>
+<span class="icon success"></span><b class="testname message success">A session user is not defined when a user signs in with incorrect information</b>
 </p>
-<p class="summary">Executed in 0.016 seconds.</p>
+<p class="summary">Executed in 0.058 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
 </div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="Deleting a user removes it from the database">
+<div class="testcase clearfix success grid_8 alpha omega" data-name="A session user is cleared when logging out">
 <div class="grid_3 alpha">
 <p>
-<span class="icon success"></span><b class="testname message success">Deleting a user removes it from the database</b>
+<span class="icon success"></span><b class="testname message success">A session user is cleared when logging out</b>
 </p>
-<p class="summary">Executed in 0.036 seconds.</p>
+<p class="summary">Executed in 0.049 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
@@ -179,16 +180,99 @@
 <div class="clearfix output footer">
 <div class="sysout">
 <h2>Standard output</h2>
-<pre class="stdout">--Output from Saving user to the database--
---Output from Updating a saved user changes its properties--
---Output from Deleting a user removes it from the database--
+<pre class="stdout">--Output from A session user is defined when a user signs in--
+--Output from A session user is not defined when a user signs in with incorrect information--
+--Output from A session user is cleared when logging out--
 </pre>
 </div>
 <div class="syserr">
 <h2>System error</h2>
-<pre class="syserr">--Output from Saving user to the database--
---Output from Updating a saved user changes its properties--
---Output from Deleting a user removes it from the database--
+<pre class="syserr">--Output from A session user is defined when a user signs in--
+--Output from A session user is not defined when a user signs in with incorrect information--
+--Output from A session user is cleared when logging out--
+</pre>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="testsuite success">
+<div class="header">
+<h2>UserControllerSpec</h2>
+<h3>
+                        Executed
+                        5
+                        tests
+                    
+                        without a single error or failure!
+                    </h3>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="registering a user creates them within the database">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">registering a user creates them within the database</b>
+</p>
+<p class="summary">Executed in 0.269 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="registering a user with invalidated data returns an error">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">registering a user with invalidated data returns an error</b>
+</p>
+<p class="summary">Executed in 0.056 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="adding favorite colors to users will populate the user's FavoriteColors">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">adding favorite colors to users will populate the user's FavoriteColors</b>
+</p>
+<p class="summary">Executed in 0.111 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="adding favorite colors when no session user is set results in an error">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">adding favorite colors when no session user is set results in an error</b>
+</p>
+<p class="summary">Executed in 0.066 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="removing favorite colors when no session user is set results in an error">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">removing favorite colors when no session user is set results in an error</b>
+</p>
+<p class="summary">Executed in 0.065 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="clearfix output footer">
+<div class="sysout">
+<h2>Standard output</h2>
+<pre class="stdout">--Output from registering a user creates them within the database--
+--Output from registering a user with invalidated data returns an error--
+--Output from adding favorite colors to users will populate the user's FavoriteColors--
+--Output from adding favorite colors when no session user is set results in an error--
+--Output from removing favorite colors when no session user is set results in an error--
+</pre>
+</div>
+<div class="syserr">
+<h2>System error</h2>
+<pre class="syserr">--Output from registering a user creates them within the database--
+--Output from registering a user with invalidated data returns an error--
+--Output from adding favorite colors to users will populate the user's FavoriteColors--
+--Output from adding favorite colors when no session user is set results in an error--
+--Output from removing favorite colors when no session user is set results in an error--
 </pre>
 </div>
 </div>

@@ -27,7 +27,7 @@
 				<g:link controller= "color" action="create">Add Color</g:link>
 				<g:link controller= "color" action="favorites">My Favorites</g:link>
 				<g:link controller= "color" action="userColors">${session.user.userName}'s Colors</g:link>
-				<g:link controller= "login" action="logout">Log Out</g:link>
+				<g:link controller= "login" action="logOut">Log Out</g:link>
 			</g:if>
 			<g:else>
 				<g:link controller= "login">Log In</g:link>

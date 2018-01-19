@@ -6684,3 +6684,1695 @@ Caused by: org.codehaus.groovy.grails.web.pages.exceptions.GroovyPagesException:
 Caused by: groovy.lang.MissingPropertyException: No such property: userName for class: java.lang.String
 	at Users_kevin_p_Desktop_colorshare_grails_app_views_color__colorBox_gsp$_run_closure2.doCall(Users_kevin_p_Desktop_colorshare_grails_app_views_color__colorBox_gsp:17)
 	... 8 more
+2018-01-19 13:10:48,353 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,354 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,355 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,355 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,363 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:10:48,364 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:25)
+2018-01-19 13:14:56,019 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,021 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,027 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:14:56,027 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:26)
+2018-01-19 13:18:03,963 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,965 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,966 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,966 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,972 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:18:03,972 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,490 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,492 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,493 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,493 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,501 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:19:05,502 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:27)
+2018-01-19 13:21:42,113 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,114 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,115 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,115 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,124 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:21:42,124 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,533 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,535 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,536 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,536 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,600 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:22:33,600 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,794 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,800 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,802 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,802 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,812 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:23:32,812 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getAt() on null object
+	at colorshare.ColorControllerSpec.Get a users favorite colors list given they are signed in(ColorControllerSpec.groovy:28)
+2018-01-19 13:46:14,184 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,186 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,187 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,187 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,191 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:46:14,191 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at colorshare.ColorControllerSpec.Check that session is empty when visiting color index without being logged in(ColorControllerSpec.groovy:74)
+2018-01-19 13:49:07,801 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,803 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,804 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,804 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,808 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:49:07,808 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:14)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,011 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at org.codehaus.groovy.grails.web.mapping.ResponseRedirector.redirect(ResponseRedirector.groovy:70)
+	at org.codehaus.groovy.grails.web.metaclass.RedirectDynamicMethod.invoke(RedirectDynamicMethod.java:145)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllersApi.redirect(ControllersApi.java:250)
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,014 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,014 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,015 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,020 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:52:10,020 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. The response has already been committed either by another redirect or by directly writing to the response.
+	at colorshare.ColorController.userColors(ColorController.groovy:16)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,939 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,941 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,942 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,942 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,946 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:53:48,946 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'userName' on null object
+	at colorshare.ColorController.userColors(ColorController.groovy:17)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,751 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.propertyMissing(ControllerTagLibraryApi.java:121)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,809 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,815 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,816 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,824 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,825 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.Get a user's created colors when viewing 'My Colors'(ColorControllerSpec.groovy:92)
+2018-01-19 13:55:20,889 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.propertyMissing(ControllerTagLibraryApi.java:121)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,890 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,892 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,893 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,896 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 13:55:20,897 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: user for class: colorshare.ColorController
+	at colorshare.ColorController.userColors(ColorController.groovy:19)
+	at colorshare.ColorControllerSpec.check that an attempt to see created colors without logged in user returns an error(ColorControllerSpec.groovy:106)
+2018-01-19 14:09:38,553 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginControllerSpec.and() is applicable for argument types: (java.lang.String) values: [The user is logged in]
+Possible solutions: any(), any(groovy.lang.Closure), find(), old(java.lang.Object), find(groovy.lang.Closure), wait()
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:47)
+2018-01-19 14:09:38,566 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginControllerSpec.and() is applicable for argument types: (java.lang.String) values: [The user is logged in]
+Possible solutions: any(), any(groovy.lang.Closure), find(), old(java.lang.Object), find(groovy.lang.Closure), wait()
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:47)
+2018-01-19 14:09:38,587 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginControllerSpec.and() is applicable for argument types: (java.lang.String) values: [The user is logged in]
+Possible solutions: any(), any(groovy.lang.Closure), find(), old(java.lang.Object), find(groovy.lang.Closure), wait()
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:47)
+2018-01-19 14:09:38,597 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginControllerSpec.and() is applicable for argument types: (java.lang.String) values: [The user is logged in]
+Possible solutions: any(), any(groovy.lang.Closure), find(), old(java.lang.Object), find(groovy.lang.Closure), wait()
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:47)
+2018-01-19 14:09:38,618 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginControllerSpec.and() is applicable for argument types: (java.lang.String) values: [The user is logged in]
+Possible solutions: any(), any(groovy.lang.Closure), find(), old(java.lang.Object), find(groovy.lang.Closure), wait()
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:47)
+2018-01-19 14:09:38,623 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginControllerSpec.and() is applicable for argument types: (java.lang.String) values: [The user is logged in]
+Possible solutions: any(), any(groovy.lang.Closure), find(), old(java.lang.Object), find(groovy.lang.Closure), wait()
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:47)
+2018-01-19 14:10:23,824 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method logOut() on null object
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:10:23,827 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method logOut() on null object
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:10:23,829 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method logOut() on null object
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:10:23,830 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method logOut() on null object
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:10:23,839 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method logOut() on null object
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:10:23,839 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method logOut() on null object
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:11:12,832 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginController.logOut() is applicable for argument types: () values: []
+Possible solutions: logout(), logIn(), logIn(java.lang.String, java.lang.String), collect(), collect(groovy.lang.Closure), collect(java.util.Collection, groovy.lang.Closure)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:11:12,844 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginController.logOut() is applicable for argument types: () values: []
+Possible solutions: logout(), logIn(), logIn(java.lang.String, java.lang.String), collect(), collect(groovy.lang.Closure), collect(java.util.Collection, groovy.lang.Closure)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:11:12,860 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginController.logOut() is applicable for argument types: () values: []
+Possible solutions: logout(), logIn(), logIn(java.lang.String, java.lang.String), collect(), collect(groovy.lang.Closure), collect(java.util.Collection, groovy.lang.Closure)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:11:12,864 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginController.logOut() is applicable for argument types: () values: []
+Possible solutions: logout(), logIn(), logIn(java.lang.String, java.lang.String), collect(), collect(groovy.lang.Closure), collect(java.util.Collection, groovy.lang.Closure)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:11:12,885 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginController.logOut() is applicable for argument types: () values: []
+Possible solutions: logout(), logIn(), logIn(java.lang.String, java.lang.String), collect(), collect(groovy.lang.Closure), collect(java.util.Collection, groovy.lang.Closure)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:11:12,890 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.LoginController.logOut() is applicable for argument types: () values: []
+Possible solutions: logout(), logIn(), logIn(java.lang.String, java.lang.String), collect(), collect(groovy.lang.Closure), collect(java.util.Collection, groovy.lang.Closure)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:12:28,919 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. A previous call to redirect(..) has already redirected the response.
+	at org.codehaus.groovy.grails.web.mapping.ResponseRedirector.redirect(ResponseRedirector.groovy:66)
+	at org.codehaus.groovy.grails.web.metaclass.RedirectDynamicMethod.invoke(RedirectDynamicMethod.java:145)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllersApi.redirect(ControllersApi.java:250)
+	at colorshare.LoginController.logOut(LoginController.groovy:14)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:12:28,922 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. A previous call to redirect(..) has already redirected the response.
+	at colorshare.LoginController.logOut(LoginController.groovy:14)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:12:28,924 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. A previous call to redirect(..) has already redirected the response.
+	at colorshare.LoginController.logOut(LoginController.groovy:14)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:12:28,924 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. A previous call to redirect(..) has already redirected the response.
+	at colorshare.LoginController.logOut(LoginController.groovy:14)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:12:28,928 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. A previous call to redirect(..) has already redirected the response.
+	at colorshare.LoginController.logOut(LoginController.groovy:14)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 14:12:28,928 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.CannotRedirectException: Cannot issue a redirect(..) here. A previous call to redirect(..) has already redirected the response.
+	at colorshare.LoginController.logOut(LoginController.groovy:14)
+	at colorshare.LoginControllerSpec.A session user is cleared when logging out(LoginControllerSpec.groovy:51)
+2018-01-19 16:08:18,528 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:08:18,531 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:08:18,533 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:08:18,533 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:08:18,544 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:08:18,545 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:08:18,643 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:08:18,647 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:08:18,647 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:08:18,648 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:08:18,648 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:08:18,648 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:08:18,773 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:08:18,773 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:08:18,774 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:08:18,774 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:08:18,775 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:08:18,775 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:10:56,095 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:10:56,099 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:10:56,103 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:10:56,103 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:10:56,110 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:10:56,110 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.addToFavorites(UserController.groovy:22)
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:77)
+2018-01-19 16:10:56,196 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:10:56,198 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:10:56,198 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:10:56,198 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:10:56,199 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:10:56,199 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:10:56,246 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:10:56,246 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:10:56,246 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:10:56,246 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:10:56,246 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:10:56,246 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController.removeFromFavorites(UserController.groovy:37)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:13:20,945 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+flash.message == "Error in adding color to favorites"
+|     |       |
+[:]   null    false
+
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:80)
+2018-01-19 16:13:20,977 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+flash.message == "Error in adding color to favorites"
+|     |       |
+[:]   null    false
+
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:80)
+2018-01-19 16:13:20,979 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Error in adding color to favorites"
+|     |       |
+[:]   null    false
+
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:80)
+2018-01-19 16:13:20,979 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Error in adding color to favorites"
+|     |       |
+[:]   null    false
+
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:80)
+2018-01-19 16:13:20,984 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Error in adding color to favorites"
+|     |       |
+[:]   null    false
+
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:80)
+2018-01-19 16:13:20,984 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Error in adding color to favorites"
+|     |       |
+[:]   null    false
+
+	at colorshare.UserControllerSpec.adding favorite colors when no session user is set results in an error(UserControllerSpec.groovy:80)
+2018-01-19 16:13:21,152 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:13:21,152 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:13:21,153 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:13:21,153 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:13:21,153 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:13:21,153 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:13:21,354 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDIkFE.removeFromFavorites(UserController.groovy:39)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:13:21,354 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDIkFE.removeFromFavorites(UserController.groovy:39)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:13:21,354 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDIkFE.removeFromFavorites(UserController.groovy:39)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:13:21,354 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDIkFE.removeFromFavorites(UserController.groovy:39)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:13:21,355 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDIkFE.removeFromFavorites(UserController.groovy:39)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:13:21,355 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDIkFE.removeFromFavorites(UserController.groovy:39)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:16:53,774 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:16:53,779 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:16:53,780 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:16:53,780 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:16:53,792 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:16:53,792 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:16:53,867 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDJdOa.removeFromFavorites(UserController.groovy:40)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:16:53,867 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDJdOa.removeFromFavorites(UserController.groovy:40)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:16:53,867 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDJdOa.removeFromFavorites(UserController.groovy:40)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:16:53,867 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDJdOa.removeFromFavorites(UserController.groovy:40)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:16:53,867 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDJdOa.removeFromFavorites(UserController.groovy:40)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:16:53,868 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot get property 'id' on null object
+	at colorshare.UserController$$EQhDJdOa.removeFromFavorites(UserController.groovy:40)
+	at colorshare.UserControllerSpec.removing favorite colors when no session user is set results in an error(UserControllerSpec.groovy:126)
+2018-01-19 16:18:05,394 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:18:05,397 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:18:05,398 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:18:05,398 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:18:05,402 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:18:05,402 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:22:24,649 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+params.id == 3
+|      |  |
+[id:1] 1  false
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:22:24,652 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+params.id == 3
+|      |  |
+[id:1] 1  false
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:22:24,653 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+params.id == 3
+|      |  |
+[id:1] 1  false
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:22:24,653 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+params.id == 3
+|      |  |
+[id:1] 1  false
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:22:24,657 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+params.id == 3
+|      |  |
+[id:1] 1  false
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:22:24,657 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+params.id == 3
+|      |  |
+[id:1] 1  false
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:23:08,709 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+jess.colors[0].id == 2
+|    |     |   |  |
+|    |     |   1  false
+|    |     colorshare.Color : 1
+|    [colorshare.Color : 1]
+colorshare.User : 1
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:23:08,714 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+jess.colors[0].id == 2
+|    |     |   |  |
+|    |     |   1  false
+|    |     colorshare.Color : 1
+|    [colorshare.Color : 1]
+colorshare.User : 1
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:23:08,715 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+jess.colors[0].id == 2
+|    |     |   |  |
+|    |     |   1  false
+|    |     colorshare.Color : 1
+|    [colorshare.Color : 1]
+colorshare.User : 1
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:23:08,715 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+jess.colors[0].id == 2
+|    |     |   |  |
+|    |     |   1  false
+|    |     colorshare.Color : 1
+|    [colorshare.Color : 1]
+colorshare.User : 1
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:23:08,719 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+jess.colors[0].id == 2
+|    |     |   |  |
+|    |     |   1  false
+|    |     colorshare.Color : 1
+|    [colorshare.Color : 1]
+colorshare.User : 1
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:23:08,720 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+jess.colors[0].id == 2
+|    |     |   |  |
+|    |     |   1  false
+|    |     colorshare.Color : 1
+|    [colorshare.Color : 1]
+colorshare.User : 1
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:24:13,339 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:24:13,346 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:24:13,348 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:24:13,348 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:24:13,353 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:24:13,353 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:39:24,742 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:39:24,756 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:39:24,761 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:39:24,761 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:39:24,791 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:39:24,791 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:41:05,787 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:41:05,790 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:41:05,791 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:41:05,791 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:41:05,795 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:41:05,795 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:42:35,669 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:42:35,672 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:42:35,673 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:42:35,673 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:42:35,677 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:42:35,677 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:08,590 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:08,600 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:08,655 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:08,658 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:08,693 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:08,695 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:50,444 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:50,449 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:50,451 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:50,451 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:50,456 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:46:50,456 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:48:27,068 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:48:27,071 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:48:27,072 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:48:27,072 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:48:27,131 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:48:27,131 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 0
+|     |              |      |
+|     |              1      false
+|     [colorshare.Color : 1]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:104)
+2018-01-19 16:53:22,749 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:53:22,752 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:53:22,753 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:53:22,753 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:53:22,807 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 16:53:22,807 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 17:00:51,901 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+updateDavid.favoriteColors.size() == 1
+|           |              |      |
+|           |              2      false
+|           [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:00:51,905 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+updateDavid.favoriteColors.size() == 1
+|           |              |      |
+|           |              2      false
+|           [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:00:51,907 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+updateDavid.favoriteColors.size() == 1
+|           |              |      |
+|           |              2      false
+|           [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:00:51,907 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+updateDavid.favoriteColors.size() == 1
+|           |              |      |
+|           |              2      false
+|           [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:00:51,910 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+updateDavid.favoriteColors.size() == 1
+|           |              |      |
+|           |              2      false
+|           [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:00:51,911 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+updateDavid.favoriteColors.size() == 1
+|           |              |      |
+|           |              2      false
+|           [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:01:55,376 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:01:55,379 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:01:55,381 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:01:55,381 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:01:55,384 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:01:55,384 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:04:20,496 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 17:04:20,501 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 17:04:20,502 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 17:04:20,503 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 17:04:20,506 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 17:04:20,506 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:106)
+2018-01-19 17:13:53,309 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:13:53,312 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:13:53,313 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:13:53,314 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:13:53,319 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-19 17:13:53,319 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+david.favoriteColors.size() == 1
+|     |              |      |
+|     |              2      false
+|     [colorshare.Color : 1, colorshare.Color : 2]
+colorshare.User : 2
+
+	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)

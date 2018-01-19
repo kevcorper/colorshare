@@ -9,7 +9,7 @@ class LoginController {
         }
     }
 
-    def logout() {
+    def logOut() {
         session.invalidate()
         redirect(uri: "/")
     }

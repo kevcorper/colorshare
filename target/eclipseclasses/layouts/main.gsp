@@ -15,19 +15,23 @@
 		<script src="https://use.fontawesome.com/1b9f17ad48.js"></script>
   		<asset:stylesheet src="application.css"/>
 		<asset:javascript src="application.js"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<g:layoutHead/>
 	</head>
 	<body>
 	<div id="mainHeader">
-		<a href="/">color<span class="share-text">Share</span></a>
+		<g:link href="/">color<span class="share-text">Share</span></g:link>
 		<div id="mainNav">
-			<g:link href="/">Home</g:link>
+			<g:link controller="color" action="index">Home</g:link>
 			<g:if test="${session.user}" >
 				<g:link controller= "color" action="create">Add Color</g:link>
-				<g:link controller= "login" action="logout">Log Out</g:link>
+				<g:link controller= "color" action="favorites">My Favorites</g:link>
+				<g:link controller= "color" action="userColors">${session.user.userName}'s Colors</g:link>
+				<g:link controller= "login" action="logOut">Log Out</g:link>
 			</g:if>
 			<g:else>
-				<g:link controller= "login" action="loginForm">Log In</g:link>
+				<g:link controller= "login">Log In</g:link>
+				<g:link controller= "user" action="register">Register</g:link>
 			</g:else>
 		</div>
 	</div>
