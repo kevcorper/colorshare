@@ -28,11 +28,11 @@
       <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/asset-pipeline-1.9.6/grails-app/services" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/asset-pipeline-1.9.6/grails-app/taglib" isTestSource="false" />
     </content>
-    <content url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.7">
-      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.7/src/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.7/src/groovy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.7/grails-app/services" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.7/grails-app/taglib" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.6">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.6/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.6/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.6/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/cache-1.1.6/grails-app/taglib" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$/target/work/plugins/database-migration-1.4.0">
       <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy" isTestSource="false" />
@@ -191,6 +191,7 @@
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/net.java.dev.jna/jna/jars/jna-4.0.0.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/org.apache.ant/ant-junit/jars/ant-junit-1.8.4.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/org.apache.ant/ant-trax/jars/ant-trax-1.7.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

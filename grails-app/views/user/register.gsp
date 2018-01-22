@@ -20,14 +20,19 @@
         <g:renderErrors bean="${user}" as="list"/>
     </div>
 </g:hasErrors>
-<g:form action="register">
+<g:if test="flash.message.length()">
+    <div class="errors">
+        ${flash.message}
+    </div>
+</g:if>
+<g:form action="addUser">
     <label for="userName">User Name</label>
     <g:textField name="userName"/></br>
 
     <label for="password">Password</label>
     <g:passwordField name="password"/></br>
 
-    <g:submitButton name="register" value="Register"/>
+    <g:submitButton name="addUser" value="Register"/>
 </g:form>
 </body>
 </html>
