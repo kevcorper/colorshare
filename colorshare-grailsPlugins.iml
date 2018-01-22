@@ -64,9 +64,10 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/org.grails/grails-datastore-simple/jars/grails-datastore-simple-3.1.2.RELEASE.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/org.grails/grails-datastore-gorm/jars/grails-datastore-gorm-3.1.2.RELEASE.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.17.1-GA/javassist-3.17.1-GA.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/org.grails/grails-datastore-core/jars/grails-datastore-core-3.1.2.RELEASE.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/commons-io/commons-io/jars/commons-io-2.2.jar!/" />
-          <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.17.1-GA/javassist-3.17.1-GA.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/dist/grails-plugin-mimetypes-2.4.3.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/dist/grails-plugin-converters-2.4.3.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/dist/grails-plugin-domain-class-2.4.3.jar!/" />
@@ -191,7 +192,6 @@
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/net.java.dev.jna/jna/jars/jna-4.0.0.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/org.apache.ant/ant-junit/jars/ant-junit-1.8.4.jar!/" />
           <root url="jar://$USER_HOME$/.sdkman/candidates/grails/2.4.3/lib/org.apache.ant/ant-trax/jars/ant-trax-1.7.1.jar!/" />
-          <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
