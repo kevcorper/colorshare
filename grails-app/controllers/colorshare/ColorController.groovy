@@ -45,9 +45,9 @@ class ColorController {
         }
 
         if (flash.message == "Success") {
-            redirect(action: 'index', id: params.id)
+            redirect(action: 'index')
         } else {
-            redirect(action: 'create', id: params.id)
+            redirect(action: 'create')
         }
     }
 }

@@ -3,6 +3,8 @@ package colorshare
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 import grails.test.mixin.Mock
+
+
 /**
  * See the API for {@link grails.test.mixin.web.ControllerUnitTestMixin} for usage instructions
  */
@@ -10,29 +12,19 @@ import grails.test.mixin.Mock
 @Mock([User, Color])
 class UserControllerSpec extends Specification {
 
-    def "registering a user creates them within the database"() {
-        given: "a new user with accurate information"
-        def userName = "jess"
-        def password = "password123"
+    def "adding a valid new user"() {
+        given: "a mock user service"
+        def mockUserService = Mock(UserService)
+        1 * mockUserService.createUser(_,_) >> new User (userName: "jess", password: "password123")
+        controller.userService = mockUserService
 
-        when: "the user is registered"
-        controller.register(userName, password)
+        when: "controller is invoked"
+        def result = controller.addUser("jess", "password123")
 
-        then: "the user should appear within the database"
-        User.findByUserName("jess")
-    }
-
-    def "registering a user with invalidated data returns an error"() {
-        given: "a new user with inaccurate information"
-        def userName = "jess"
-        def password = "bad"
-
-        when: "the user is registered"
-        controller.register(userName, password)
-
-        then: "a flash error message is thrown and the user should not appear within the database"
-        flash.message == "Error Registering User"
-        !User.findByUserName("jess")
+        then: "redirected to home/color-index, flash message shows succesful creation, user is set to session user and logged in"
+        flash.message == "Successfully created user"
+        session.user.userName == "jess"
+        response.redirectedUrl == '/'
     }
 
     def "adding favorite colors to users will populate the user's FavoriteColors"() {

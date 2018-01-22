@@ -4761,3 +4761,4 @@ n:764:org/codehaus/groovy/runtime/dgm$1119
 n:728:org/codehaus/groovy/runtime/dgm$1113
 n:11683:org/springframework/uaa/client/protobuf/UaaClient$UaaEnvelope$Builder
 n:2511:org/springframework/uaa/client/util/Base64$OutputStream
+n:538:sl/org/objectweb/asm/tree/InnerClassNode

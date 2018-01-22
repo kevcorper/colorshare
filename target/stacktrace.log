@@ -8376,3 +8376,943 @@ david.favoriteColors.size() == 1
 colorshare.User : 2
 
 	at colorshare.UserControllerSpec.removing from favorite colors reduces the user's favoriteColors(UserControllerSpec.groovy:107)
+2018-01-22 12:34:01,226 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: register(), render(java.lang.String)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:34:01,255 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:34:01,283 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:34:01,298 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:34:01,339 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:34:01,340 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:34:01,392 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: register(), render(java.lang.String)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:34:01,394 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:34:01,397 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:34:01,398 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:34:01,403 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:34:01,404 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: register(), render(java.lang.String)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:35:37,906 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: addUser()
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:35:37,920 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:35:37,939 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:35:37,951 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:35:37,976 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:35:37,980 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:35:38,022 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: addUser()
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:35:38,023 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:35:38,025 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:35:38,026 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:35:38,028 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:35:38,028 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, bad]
+Possible solutions: addUser()
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:39:07,069 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:39:07,073 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:39:07,075 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:39:07,075 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:39:07,081 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:39:07,082 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:39:07,140 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:39:07,140 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:39:07,140 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:39:07,140 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:39:07,141 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:39:07,141 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:52:22,301 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:52:22,304 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:52:22,306 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:52:22,306 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:52:22,312 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:52:22,313 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 12:52:22,385 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:52:22,386 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:52:22,386 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:52:22,386 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:52:22,387 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 12:52:22,387 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:20:22,108 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:20:22,111 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:20:22,113 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:20:22,113 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:20:22,117 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:20:22,117 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:20:22,157 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:20:22,157 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:20:22,158 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:20:22,158 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:20:22,158 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:20:22,158 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:32:47,820 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:32:47,823 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:32:47,824 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:32:47,824 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:32:47,829 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:32:47,830 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:19)
+2018-01-22 14:32:47,891 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:32:47,892 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:32:47,892 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:32:47,893 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:32:47,893 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:32:47,893 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:31)
+2018-01-22 14:41:49,969 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:130)
+	at org.codehaus.groovy.grails.orm.support.GrailsTransactionTemplate.execute(GrailsTransactionTemplate.groovy:85)
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:24)
+2018-01-22 14:41:49,972 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:24)
+2018-01-22 14:41:49,973 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:24)
+2018-01-22 14:41:49,973 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:24)
+2018-01-22 14:41:49,978 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:24)
+2018-01-22 14:41:49,978 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user creates them within the database(UserControllerSpec.groovy:24)
+2018-01-22 14:41:50,026 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:36)
+2018-01-22 14:41:50,027 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:36)
+2018-01-22 14:41:50,027 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:36)
+2018-01-22 14:41:50,027 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:36)
+2018-01-22 14:41:50,028 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:36)
+2018-01-22 14:41:50,028 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser(UserController.groovy:17)
+	at colorshare.UserControllerSpec.registering a user with invalidated data returns an error(UserControllerSpec.groovy:36)
+2018-01-22 15:02:44,305 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:16)
+2018-01-22 15:02:44,311 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:16)
+2018-01-22 15:02:44,315 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:16)
+2018-01-22 15:02:44,317 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:16)
+2018-01-22 15:02:44,327 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:16)
+2018-01-22 15:02:44,329 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:16)
+2018-01-22 15:02:44,348 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:28)
+2018-01-22 15:02:44,350 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:28)
+2018-01-22 15:02:44,354 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:28)
+2018-01-22 15:02:44,356 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:28)
+2018-01-22 15:02:44,361 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:28)
+2018-01-22 15:02:44,362 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: params for class: colorshare.UserServiceSpec
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:28)
+2018-01-22 15:09:12,698 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:20)
+2018-01-22 15:09:12,717 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:20)
+2018-01-22 15:09:12,732 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:20)
+2018-01-22 15:09:12,740 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:20)
+2018-01-22 15:09:12,777 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:20)
+2018-01-22 15:09:12,784 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, password123]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user creates them within the database(UserServiceSpec.groovy:20)
+2018-01-22 15:09:12,810 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, a]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:09:12,817 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, a]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:09:12,823 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, a]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:09:12,827 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, a]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:09:12,843 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, a]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:09:12,846 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserService.addUser() is applicable for argument types: (java.lang.String, java.lang.String) values: [jess, a]
+Possible solutions: createUser(java.lang.String, java.lang.String)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:32:46,313 [main] ERROR StackTrace  - Full Stack Trace:
+colorshare.UserException: Invalid username or password
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at colorshare.UserService.$tt__createUser(UserService.groovy:18)
+	at colorshare.UserService.createUser_closure1(UserService.groovy)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at groovy.lang.Closure.call(Closure.java:439)
+	at org.codehaus.groovy.grails.orm.support.GrailsTransactionTemplate$2.doInTransaction(GrailsTransactionTemplate.groovy:88)
+	at org.springframework.transaction.support.TransactionTemplate.execute(TransactionTemplate.java:133)
+	at org.codehaus.groovy.grails.orm.support.GrailsTransactionTemplate.execute(GrailsTransactionTemplate.groovy:85)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:32:46,316 [main] ERROR StackTrace  - Full Stack Trace:
+colorshare.UserException: Invalid username or password
+	at colorshare.UserService.$tt__createUser(UserService.groovy:18)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:32:46,318 [main] ERROR StackTrace  - Full Stack Trace:
+colorshare.UserException: Invalid username or password
+	at colorshare.UserService.$tt__createUser(UserService.groovy:18)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:32:46,318 [main] ERROR StackTrace  - Full Stack Trace:
+colorshare.UserException: Invalid username or password
+	at colorshare.UserService.$tt__createUser(UserService.groovy:18)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:32:46,323 [main] ERROR StackTrace  - Full Stack Trace:
+colorshare.UserException: Invalid username or password
+	at colorshare.UserService.$tt__createUser(UserService.groovy:18)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:32:46,323 [main] ERROR StackTrace  - Full Stack Trace:
+colorshare.UserException: Invalid username or password
+	at colorshare.UserService.$tt__createUser(UserService.groovy:18)
+	at colorshare.UserServiceSpec.registering a user with invalidated data returns an error(UserServiceSpec.groovy:32)
+2018-01-22 15:50:45,284 [main] ERROR StackTrace  - Full Stack Trace:
+org.spockframework.mock.CannotCreateMockException: Cannot create mock for class colorshare.UserService. Mocking of non-interface types requires the CGLIB library. Please put cglib-nodep-2.2 or higher on the class path.
+	at org.spockframework.mock.runtime.ProxyBasedMockFactory.create(ProxyBasedMockFactory.java:52)
+	at org.spockframework.mock.runtime.JavaMockFactory.create(JavaMockFactory.java:51)
+	at org.spockframework.mock.runtime.CompositeMockFactory.create(CompositeMockFactory.java:44)
+	at org.spockframework.lang.SpecInternals.createMock(SpecInternals.java:47)
+	at org.spockframework.lang.SpecInternals.createMockImpl(SpecInternals.java:282)
+	at org.spockframework.lang.SpecInternals.MockImpl(SpecInternals.java:99)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:17)
+2018-01-22 15:50:45,287 [main] ERROR StackTrace  - Full Stack Trace:
+org.spockframework.mock.CannotCreateMockException: Cannot create mock for class colorshare.UserService. Mocking of non-interface types requires the CGLIB library. Please put cglib-nodep-2.2 or higher on the class path.
+	at org.spockframework.mock.runtime.ProxyBasedMockFactory.create(ProxyBasedMockFactory.java:52)
+	at org.spockframework.mock.runtime.JavaMockFactory.create(JavaMockFactory.java:51)
+	at org.spockframework.mock.runtime.CompositeMockFactory.create(CompositeMockFactory.java:44)
+	at org.spockframework.lang.SpecInternals.createMock(SpecInternals.java:47)
+	at org.spockframework.lang.SpecInternals.createMockImpl(SpecInternals.java:282)
+	at org.spockframework.lang.SpecInternals.MockImpl(SpecInternals.java:99)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:17)
+2018-01-22 15:50:45,302 [main] ERROR StackTrace  - Full Stack Trace:
+org.spockframework.mock.CannotCreateMockException: Cannot create mock for class colorshare.UserService. Mocking of non-interface types requires the CGLIB library. Please put cglib-nodep-2.2 or higher on the class path.
+	at org.spockframework.mock.runtime.ProxyBasedMockFactory.create(ProxyBasedMockFactory.java:52)
+	at org.spockframework.mock.runtime.JavaMockFactory.create(JavaMockFactory.java:51)
+	at org.spockframework.mock.runtime.CompositeMockFactory.create(CompositeMockFactory.java:44)
+	at org.spockframework.lang.SpecInternals.createMock(SpecInternals.java:47)
+	at org.spockframework.lang.SpecInternals.createMockImpl(SpecInternals.java:282)
+	at org.spockframework.lang.SpecInternals.MockImpl(SpecInternals.java:99)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:17)
+2018-01-22 15:50:45,302 [main] ERROR StackTrace  - Full Stack Trace:
+org.spockframework.mock.CannotCreateMockException: Cannot create mock for class colorshare.UserService. Mocking of non-interface types requires the CGLIB library. Please put cglib-nodep-2.2 or higher on the class path.
+	at org.spockframework.mock.runtime.ProxyBasedMockFactory.create(ProxyBasedMockFactory.java:52)
+	at org.spockframework.mock.runtime.JavaMockFactory.create(JavaMockFactory.java:51)
+	at org.spockframework.mock.runtime.CompositeMockFactory.create(CompositeMockFactory.java:44)
+	at org.spockframework.lang.SpecInternals.createMock(SpecInternals.java:47)
+	at org.spockframework.lang.SpecInternals.createMockImpl(SpecInternals.java:282)
+	at org.spockframework.lang.SpecInternals.MockImpl(SpecInternals.java:99)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:17)
+2018-01-22 15:50:45,309 [main] ERROR StackTrace  - Full Stack Trace:
+org.spockframework.mock.CannotCreateMockException: Cannot create mock for class colorshare.UserService. Mocking of non-interface types requires the CGLIB library. Please put cglib-nodep-2.2 or higher on the class path.
+	at org.spockframework.mock.runtime.ProxyBasedMockFactory.create(ProxyBasedMockFactory.java:52)
+	at org.spockframework.mock.runtime.JavaMockFactory.create(JavaMockFactory.java:51)
+	at org.spockframework.mock.runtime.CompositeMockFactory.create(CompositeMockFactory.java:44)
+	at org.spockframework.lang.SpecInternals.createMock(SpecInternals.java:47)
+	at org.spockframework.lang.SpecInternals.createMockImpl(SpecInternals.java:282)
+	at org.spockframework.lang.SpecInternals.MockImpl(SpecInternals.java:99)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:17)
+2018-01-22 15:50:45,309 [main] ERROR StackTrace  - Full Stack Trace:
+org.spockframework.mock.CannotCreateMockException: Cannot create mock for class colorshare.UserService. Mocking of non-interface types requires the CGLIB library. Please put cglib-nodep-2.2 or higher on the class path.
+	at org.spockframework.mock.runtime.ProxyBasedMockFactory.create(ProxyBasedMockFactory.java:52)
+	at org.spockframework.mock.runtime.JavaMockFactory.create(JavaMockFactory.java:51)
+	at org.spockframework.mock.runtime.CompositeMockFactory.create(CompositeMockFactory.java:44)
+	at org.spockframework.lang.SpecInternals.createMock(SpecInternals.java:47)
+	at org.spockframework.lang.SpecInternals.createMockImpl(SpecInternals.java:282)
+	at org.spockframework.lang.SpecInternals.MockImpl(SpecInternals.java:99)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:17)
+2018-01-22 15:54:13,531 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+session.user.userName == "jess"
+|       |    |        |
+|       |    |        false
+|       |    |        8 differences (11% similarity)
+|       |    |        (mock_u)s(er)
+|       |    |        (jes---)s(--)
+|       |    mock_user
+|       colorshare.User : (unsaved)
+org.springframework.mock.web.MockHttpSession@15b39874
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:26)
+2018-01-22 15:54:13,547 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+session.user.userName == "jess"
+|       |    |        |
+|       |    |        false
+|       |    |        8 differences (11% similarity)
+|       |    |        (mock_u)s(er)
+|       |    |        (jes---)s(--)
+|       |    mock_user
+|       colorshare.User : (unsaved)
+org.springframework.mock.web.MockHttpSession@15b39874
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:26)
+2018-01-22 15:54:13,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+session.user.userName == "jess"
+|       |    |        |
+|       |    |        false
+|       |    |        8 differences (11% similarity)
+|       |    |        (mock_u)s(er)
+|       |    |        (jes---)s(--)
+|       |    mock_user
+|       colorshare.User : (unsaved)
+org.springframework.mock.web.MockHttpSession@15b39874
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:26)
+2018-01-22 15:54:13,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+session.user.userName == "jess"
+|       |    |        |
+|       |    |        false
+|       |    |        8 differences (11% similarity)
+|       |    |        (mock_u)s(er)
+|       |    |        (jes---)s(--)
+|       |    mock_user
+|       colorshare.User : (unsaved)
+org.springframework.mock.web.MockHttpSession@15b39874
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:26)
+2018-01-22 15:54:13,563 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+session.user.userName == "jess"
+|       |    |        |
+|       |    |        false
+|       |    |        8 differences (11% similarity)
+|       |    |        (mock_u)s(er)
+|       |    |        (jes---)s(--)
+|       |    mock_user
+|       colorshare.User : (unsaved)
+org.springframework.mock.web.MockHttpSession@15b39874
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:26)
+2018-01-22 15:54:13,563 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+session.user.userName == "jess"
+|       |    |        |
+|       |    |        false
+|       |    |        8 differences (11% similarity)
+|       |    |        (mock_u)s(er)
+|       |    |        (jes---)s(--)
+|       |    mock_user
+|       colorshare.User : (unsaved)
+org.springframework.mock.web.MockHttpSession@15b39874
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:26)
+2018-01-22 15:54:13,637 [main] ERROR StackTrace  - Full Stack Trace:
+Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:54:13,637 [main] ERROR StackTrace  - Full Stack Trace:
+Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:54:13,638 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:54:13,638 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:54:13,639 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:54:13,639 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:59:25,713 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.redirectedUrl == '/color/index'
+|        |             |
+|        /             false
+|                      11 differences (8% similarity)
+|                      /(-----------)
+|                      /(color/index)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@21c10295
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:27)
+2018-01-22 15:59:25,721 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.redirectedUrl == '/color/index'
+|        |             |
+|        /             false
+|                      11 differences (8% similarity)
+|                      /(-----------)
+|                      /(color/index)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@21c10295
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:27)
+2018-01-22 15:59:25,723 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color/index'
+|        |             |
+|        /             false
+|                      11 differences (8% similarity)
+|                      /(-----------)
+|                      /(color/index)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@21c10295
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:27)
+2018-01-22 15:59:25,724 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color/index'
+|        |             |
+|        /             false
+|                      11 differences (8% similarity)
+|                      /(-----------)
+|                      /(color/index)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@21c10295
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:27)
+2018-01-22 15:59:25,735 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color/index'
+|        |             |
+|        /             false
+|                      11 differences (8% similarity)
+|                      /(-----------)
+|                      /(color/index)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@21c10295
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:27)
+2018-01-22 15:59:25,736 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color/index'
+|        |             |
+|        /             false
+|                      11 differences (8% similarity)
+|                      /(-----------)
+|                      /(color/index)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@21c10295
+
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:27)
+2018-01-22 15:59:25,783 [main] ERROR StackTrace  - Full Stack Trace:
+Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:59:25,785 [main] ERROR StackTrace  - Full Stack Trace:
+Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:59:25,785 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:59:25,785 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:59:25,786 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 15:59:25,786 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:07:31,914 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:18)
+2018-01-22 16:07:31,935 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:18)
+2018-01-22 16:07:31,936 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:18)
+2018-01-22 16:07:31,937 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:18)
+2018-01-22 16:07:32,037 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:18)
+2018-01-22 16:07:32,038 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding a valid new user(UserControllerSpec.groovy:18)
+2018-01-22 16:07:32,095 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:33)
+2018-01-22 16:07:32,095 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:33)
+2018-01-22 16:07:32,096 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:33)
+2018-01-22 16:07:32,096 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:33)
+2018-01-22 16:07:32,097 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:33)
+2018-01-22 16:07:32,097 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.GroovyRuntimeException: Could not find matching constructor for: colorshare.User(java.util.LinkedHashMap, java.lang.String)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:33)
+2018-01-22 16:08:42,875 [main] ERROR StackTrace  - Full Stack Trace:
+Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:08:42,877 [main] ERROR StackTrace  - Full Stack Trace:
+Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:08:42,879 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:08:42,879 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:08:42,883 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:08:42,884 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Expected exception colorshare.UserException, but no exception was thrown
+	at org.spockframework.lang.SpecInternals.thrownImpl(SpecInternals.java:79)
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:20:08,667 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:20:08,676 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:20:08,679 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:20:08,679 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:20:08,686 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:20:08,687 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:56:26,598 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:56:26,609 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:56:26,612 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:56:26,612 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:56:26,618 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-22 16:56:26,618 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+flash.message == "Invalid username or password"
+|     |       |
+|     |       false
+|     |       24 differences (14% similarity)
+|     |       (Successf)u(lly c)r(e)a(t)e(d--) (u-)s(e--)r(-)
+|     |       (Invalid )u(se---)r(n)a(m)e( or) (pa)s(swo)r(d)
+|     Successfully created user
+[message:Successfully created user]
+
+	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)

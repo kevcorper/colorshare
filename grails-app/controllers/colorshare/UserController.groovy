@@ -2,18 +2,25 @@ package colorshare
 
 class UserController {
 
+    def userService
+
     def show() { }
 
-    def register(String userName, String password) {
-        def user = new User(userName: userName, password: password)
-        if (user && user.validate()) {
-            user.save(failOnError: true)
+    def register() {
+        if (session.user) {
+            redirect(controller: "color", action: "index")
+        }
+    }
+
+    def addUser(String userName, String password) {
+        try {
+            def user = userService.createUser(userName, password)
             flash.message = "Successfully created user"
             session.user = user
-            redirect(uri: "/")
-        } else {
-            flash.message = "Error Registering User"
-            return [ user: user ]
+            redirect(controller: "color", action: "index")
+        } catch(UserException ue) {
+            flash.message = ue.message
+            render(view: "register", model: ue.user)
         }
     }
 
@@ -40,8 +47,7 @@ class UserController {
             def user = User.findById(session.user.id)
             def color = Color.findById(params.id)
             if (user && color) {
-                user.favoriteColors.find{it.hexCode==color.hexCode}.delete(flush:true)
-//                user.removeFromFavoriteColors(color)
+                user.removeFromFavoriteColors(color)
                 user.save(flush: true)
                 render(text: '', contentType: "text/html", encoding: "UTF-8")
             } else {

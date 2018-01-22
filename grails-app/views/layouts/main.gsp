@@ -20,7 +20,7 @@
 	</head>
 	<body>
 	<div id="mainHeader">
-		<g:link href="/">color<span class="share-text">Share</span></g:link>
+		<g:link controller="color" action="index">color<span class="share-text">Share</span></g:link>
 		<div id="mainNav">
 			<g:link controller="color" action="index">Home</g:link>
 			<g:if test="${session.user}" >
