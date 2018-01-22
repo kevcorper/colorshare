@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    $('.color-favorite i').on('click', function (event) {
+    $('body').on('click', '.color-favorite i', function (event) {
         event.preventDefault();
 
         var $target = $(event.target);
