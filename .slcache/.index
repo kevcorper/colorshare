@@ -5629,3 +5629,5 @@ n:2152:org/apache/tools/ant/taskdefs/optional/native2ascii/DefaultNative2Ascii
 n:6800:sun/tools/native2ascii/Main
 n:697:sun/tools/native2ascii/resources/MsgNative2ascii
 n:1245:sun/tools/native2ascii/N2AFilter
+n:1117:jline/console/history/MemoryHistory$EntryImpl
+n:264:jline/console/history/History$Entry

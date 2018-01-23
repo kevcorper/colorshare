@@ -3,7 +3,7 @@ package colorshare
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 import grails.test.mixin.Mock
-
+import spock.lang.Unroll
 
 /**
  * See the API for {@link grails.test.mixin.web.ControllerUnitTestMixin} for usage instructions
@@ -95,5 +95,52 @@ class UserControllerSpec extends Specification {
 
         then: "the selected color is properly removed from the session user's favoriteColors"
         flash.message == "Error in removing color from favorites"
+    }
+
+    @Unroll
+    def "Registration command command object validates correctly"() {
+        given: "a mocked command object"
+        def urc = mockCommandObject(UserRegistrationCommand)
+
+        and: "a set of initial values from the spock test"
+        urc.userName = userName
+        urc.password = password
+        urc.passwordRepeat = passwordRepeat
+
+        when: "the validator is invoked"
+        def isValidRegistration = urc.validate()
+
+        then: "the appropriate fields are flagged as errors"
+        isValidRegistration == anticipatedValid
+        urc.errors.getFieldError(fieldInError)?.code == errorCode
+
+        where:
+        userName | password | passwordRepeat | anticipatedValid | fieldInError | errorCode
+        "glen" | "password" | "no-match" | false | "passwordRepeat" | "validator.invalid"
+        "peter" | "password" | "password" | true | null | null
+    }
+
+    def "Invoking the new addUser2 action via a command object"() {
+        given: "A configured command object and mock user service"
+        def urc = mockCommandObject(UserRegistrationCommand)
+        urc.with {
+            userName = "jess"
+            password = "password"
+            passwordRepeat = "password"
+        }
+        def mockUserService = Mock(UserService)
+        1 * mockUserService.createUser(_,_) >> new User (userName: "jess", password: "password")
+        controller.userService = mockUserService
+
+        and: "which has been validated"
+        urc.validate()
+
+        when: "the register action is invoked"
+        controller.addUser2(urc)
+
+        then: "the user is registered and browser redirected"
+        !urc.hasErrors()
+        response.redirectedUrl == '/'
+        User.count() == 1
     }
 }
