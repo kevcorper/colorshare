@@ -9316,3 +9316,247 @@ flash.message == "Invalid username or password"
 [message:Successfully created user]
 
 	at colorshare.UserControllerSpec.adding an invalid new user(UserControllerSpec.groovy:40)
+2018-01-23 11:17:50,302 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register2() is applicable for argument types: (colorshare.UserRegistrationCommand) values: [colorshare.UserRegistrationCommand@67ea74f]
+Possible solutions: register(), addUser2(colorshare.UserRegistrationCommand)
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.methodMissing(ControllerTagLibraryApi.java:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:17:50,353 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register2() is applicable for argument types: (colorshare.UserRegistrationCommand) values: [colorshare.UserRegistrationCommand@67ea74f]
+Possible solutions: register(), addUser2(colorshare.UserRegistrationCommand)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:17:50,418 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register2() is applicable for argument types: (colorshare.UserRegistrationCommand) values: [colorshare.UserRegistrationCommand@67ea74f]
+Possible solutions: register(), addUser2(colorshare.UserRegistrationCommand)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:17:50,453 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register2() is applicable for argument types: (colorshare.UserRegistrationCommand) values: [colorshare.UserRegistrationCommand@67ea74f]
+Possible solutions: register(), addUser2(colorshare.UserRegistrationCommand)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:17:50,552 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register2() is applicable for argument types: (colorshare.UserRegistrationCommand) values: [colorshare.UserRegistrationCommand@67ea74f]
+Possible solutions: register(), addUser2(colorshare.UserRegistrationCommand)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:17:50,557 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: colorshare.UserController.register2() is applicable for argument types: (colorshare.UserRegistrationCommand) values: [colorshare.UserRegistrationCommand@67ea74f]
+Possible solutions: register(), addUser2(colorshare.UserRegistrationCommand)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:18:46,781 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: userName for class: colorshare.UserController
+	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.propertyMissing(ControllerTagLibraryApi.java:121)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:18:46,792 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: userName for class: colorshare.UserController
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:18:46,802 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: userName for class: colorshare.UserController
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:18:46,804 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: userName for class: colorshare.UserController
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:18:46,826 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: userName for class: colorshare.UserController
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:18:46,828 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: userName for class: colorshare.UserController
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:21:29,455 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:21:29,464 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:21:29,487 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:21:29,488 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:21:29,515 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:21:29,515 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method createUser() on null object
+	at colorshare.UserController.addUser2(UserController.groovy:32)
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:136)
+2018-01-23 11:23:25,917 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.redirectedUrl == '/color'
+|        |             |
+|        /             false
+|                      5 differences (16% similarity)
+|                      /(-----)
+|                      /(color)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@27babfa0
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:143)
+2018-01-23 11:23:25,931 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.redirectedUrl == '/color'
+|        |             |
+|        /             false
+|                      5 differences (16% similarity)
+|                      /(-----)
+|                      /(color)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@27babfa0
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:143)
+2018-01-23 11:23:25,945 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color'
+|        |             |
+|        /             false
+|                      5 differences (16% similarity)
+|                      /(-----)
+|                      /(color)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@27babfa0
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:143)
+2018-01-23 11:23:25,946 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color'
+|        |             |
+|        /             false
+|                      5 differences (16% similarity)
+|                      /(-----)
+|                      /(color)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@27babfa0
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:143)
+2018-01-23 11:23:25,963 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color'
+|        |             |
+|        /             false
+|                      5 differences (16% similarity)
+|                      /(-----)
+|                      /(color)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@27babfa0
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:143)
+2018-01-23 11:23:25,963 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.redirectedUrl == '/color'
+|        |             |
+|        /             false
+|                      5 differences (16% similarity)
+|                      /(-----)
+|                      /(color)
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@27babfa0
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:143)
+2018-01-23 11:24:07,769 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+User.findByUserName("jess")
+     |
+     null
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:24:07,774 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+User.findByUserName("jess")
+     |
+     null
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:24:07,775 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.findByUserName("jess")
+     |
+     null
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:24:07,775 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.findByUserName("jess")
+     |
+     null
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:24:07,780 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.findByUserName("jess")
+     |
+     null
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:24:07,780 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.findByUserName("jess")
+     |
+     null
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:25:40,672 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+User.count() == 1
+     |       |
+     0       false
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:25:40,677 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+User.count() == 1
+     |       |
+     0       false
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:25:40,678 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.count() == 1
+     |       |
+     0       false
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:25:40,678 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.count() == 1
+     |       |
+     0       false
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:25:40,682 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.count() == 1
+     |       |
+     0       false
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
+2018-01-23 11:25:40,683 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+User.count() == 1
+     |       |
+     0       false
+
+	at colorshare.UserControllerSpec.Invoking the new addUser2 action via a command object(UserControllerSpec.groovy:144)
